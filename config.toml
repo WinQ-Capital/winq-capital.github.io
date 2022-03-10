@@ -1,0 +1,6 @@
+baseURL = 'http://winqcapital.com/'
+languageCode = "en-us"
+title = 'WinQ Capital'
+theme = "ananke"
+
+DefaultContentLanguage = "zh"
