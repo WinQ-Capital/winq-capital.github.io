@@ -4,3 +4,4 @@ title = 'WinQ Capital'
 theme = "ananke"
 
 DefaultContentLanguage = "zh"
+summaryLength = 60
