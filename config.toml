@@ -1,4 +1,4 @@
-baseURL = 'http://winqcapital.com/'
+baseURL = 'https://winq-capital.github.io/'
 languageCode = "en-us"
 title = 'WinQ Capital'
 theme = "ananke"
